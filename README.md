@@ -12,7 +12,8 @@
   </a>
 </p>
 
-![github contribution grid snake animation](https://raw.githubusercontent.com/Bit-Barron/Bit-Barron/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/Bit-Barron/Bit-Barron/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+![github contribution grid snake animation](https://raw.githubusercontent.com/don-cryptus/don-cryptus/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/don-cryptus/don-cryptus/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+
 
 ## 🚀 Technologies & Tools
 
@@ -38,7 +39,6 @@
 ### DevOps & Tools
 
 ![vscode](https://img.shields.io/badge/vscode-black?style=flat-square&logo=visual-studio-code&logoColor=007ACC)
-![intellij](https://img.shields.io/badge/intellij-black?style=flat-square&logo=intellij-idea)
 ![git](https://img.shields.io/badge/git-black?style=flat-square&logo=git)
 ![windows](https://img.shields.io/badge/windows-black?style=flat-square&logo=windows&logoColor=0078D6)
 ![linux](https://img.shields.io/badge/linux-black?style=flat-square&logo=linux)
