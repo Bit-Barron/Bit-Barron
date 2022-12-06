@@ -66,20 +66,10 @@
   <summary><b>🛡️ &nbsp;Discord</b></summary>
   <br/>
   <p align="center">
-    <a href="https://github.com/Bit-Barron/coding.global-bot">
-      <img height="120px" src="https://github-readme-stats.vercel.app/api/pin/?username=Bit-Barron&repo=coding.global-bot&theme=react&bg_color=151515&title_color=fff&icon_color=fa8b00&hide_border=true&show_icons=false" />
+    <a href="https://github.com/Don-Cryptus/coding.global-web">
+      <img height="120px" src="https://github-readme-stats.vercel.app/api/pin/?username=Don-Cryptus&repo=coding.global-web&theme=react&bg_color=151515&title_color=fff&icon_color=fa8b00&hide_border=true&show_icons=false" />
     </a>
-    <a href="https://github.com/Bit-Barron/coding.global-web">
-     <img height="120px" src="https://github-readme-stats.vercel.app/api/pin/?username=Bit-Barron&repo=coding.global-web&theme=react&bg_color=151515&title_color=fff&icon_color=fa8b00&hide_border=true&show_icons=false" />
-    </a>
-  </p>
-  <p align="center">
-    <a href="https://github.com/Bit-Barron/DiscordCustomUrlSniper">
-      <img height="120px" src="https://github-readme-stats.vercel.app/api/pin/?username=Bit-Barron&repo=DiscordCustomUrlSniper&theme=react&bg_color=151515&title_color=fff&icon_color=fa8b00&hide_border=true&show_icons=false" />
-    </a>
-    <a href="https://github.com/Bit-Barron/DisboardBumpBot">
-      <img height="120px" src="https://github-readme-stats.vercel.app/api/pin/?username=Bit-Barron&repo=DisboardBumpBot&theme=react&bg_color=151515&title_color=fff&icon_color=fa8b00&hide_border=true&show_icons=false" />
-    </a>
+  
 </p>
 </details>
 
@@ -87,29 +77,20 @@
   <summary><b>🌐 &nbsp;Websites</b></summary>
   <br/>
   <p align="center">
-    <a href="https://github.com/Bit-Barron/echat">
-      <img height="120px" src="https://github-readme-stats.vercel.app/api/pin/?username=Bit-Barron&repo=echat&theme=react&bg_color=151515&title_color=fff&icon_color=fa8b00&hide_border=true&show_icons=false" />
+    <a href="https://github.com/Bit-Barron/CryptoTrack">
+      <img height="120px" src="https://github-readme-stats.vercel.app/api/pin/?username=Bit-Barron&repo=CryptoTrack&theme=react&bg_color=151515&title_color=fff&icon_color=fa8b00&hide_border=true&show_icons=false" />
     </a>
-    <a href="https://github.com/Bit-Barron/palarm">
-      <img height="120px" src="https://github-readme-stats.vercel.app/api/pin/?username=Bit-Barron&repo=palarm&theme=react&bg_color=151515&title_color=fff&icon_color=fa8b00&hide_border=true&show_icons=false" />
+    <a href="https://github.com/Bit-Barron/DownConvert">
+      <img height="120px" src="https://github-readme-stats.vercel.app/api/pin/?username=Bit-Barron&repo=DownConvert&theme=react&bg_color=151515&title_color=fff&icon_color=fa8b00&hide_border=true&show_icons=false" />
     </a>
-  </p>
-  <p align="center">
-    <a href="https://github.com/Bit-Barron/clips">
-      <img height="120px" src="https://github-readme-stats.vercel.app/api/pin/?username=Bit-Barron&repo=clips&theme=react&bg_color=151515&title_color=fff&icon_color=fa8b00&hide_border=true&show_icons=false" />
-    </a>
-    <a href="https://github.com/Bit-Barron/spring-boot-ecommerce">
-      <img height="120px" src="https://github-readme-stats.vercel.app/api/pin/?username=Bit-Barron&repo=spring-boot-ecommerce&theme=react&bg_color=151515&title_color=fff&icon_color=fa8b00&hide_border=true&show_icons=false" />
+     <a href="https://github.com/Bit-Barron/devConnector">
+      <img height="120px" src="https://github-readme-stats.vercel.app/api/pin/?username=Bit-Barron&repo=devConnector&theme=react&bg_color=151515&title_color=fff&icon_color=fa8b00&hide_border=true&show_icons=false" />
     </a>
   </p>
-  <p align="center">
-    <a href="https://github.com/Bit-Barron/cashclock">
-      <img height="120px" src="https://github-readme-stats.vercel.app/api/pin/?username=Bit-Barron&repo=cashclock&theme=react&bg_color=151515&title_color=fff&icon_color=fa8b00&hide_border=true&show_icons=false" />
-    </a>
-  </p>
+  
 </details>
 
-<details>
+<!-- <details>
   <summary><b>⚙️ &nbsp;DevOps</b></summary>
   <br/>
   <p align="center">
@@ -161,4 +142,4 @@
       <img height="120px" src="https://github-readme-stats.vercel.app/api/pin/?username=Bit-Barron&repo=igdb-graphql&theme=react&bg_color=151515&title_color=fff&icon_color=fa8b00&hide_border=true&show_icons=false" />
     </a>
   </p>
-</details>
+</details> -->
