@@ -148,8 +148,8 @@
   <summary><b>💻 &nbsp;API</b></summary>
   <br/>
   <p align="center">
-    <a href="https://github.com/Don-Cryptus/igdb-graphql">
-      <img height="120px" src="https://github-readme-stats.vercel.app/api/pin/?username=don-cryptus&repo=igdb-graphql&theme=react&bg_color=151515&title_color=fff&icon_color=fa8b00&hide_border=true&show_icons=false" />
+    <a href="https://github.com/Don-Cryptus/Simplicity-API">
+      <img height="120px" src="https://github-readme-stats.vercel.app/api/pin/?username=bit-barron&repo=Simplicity-API&theme=react&bg_color=151515&title_color=fff&icon_color=fa8b00&hide_border=true&show_icons=false" />
     </a>
   </p>
 </details>
