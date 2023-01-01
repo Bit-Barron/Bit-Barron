@@ -81,14 +81,12 @@
     <a href="https://github.com/Bit-Barron/CryptoTrack">
       <img height="120px" src="https://github-readme-stats.vercel.app/api/pin/?username=Bit-Barron&repo=CryptoTrack&theme=react&bg_color=151515&title_color=fff&icon_color=fa8b00&hide_border=true&show_icons=false" />
     </a>
-
     <a href="https://github.com/Bit-Barron/DownConvert">
       <img height="120px" src="https://github-readme-stats.vercel.app/api/pin/?username=Bit-Barron&repo=DownConvert&theme=react&bg_color=151515&title_color=fff&icon_color=fa8b00&hide_border=true&show_icons=false" />
     </a>
      <a href="https://github.com/Bit-Barron/devConnector">
       <img height="120px" src="https://github-readme-stats.vercel.app/api/pin/?username=Bit-Barron&repo=devConnector&theme=react&bg_color=151515&title_color=fff&icon_color=fa8b00&hide_border=true&show_icons=false" />
     </a>
-
   </p>
   
 </details>
