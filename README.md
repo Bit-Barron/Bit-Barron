@@ -75,7 +75,7 @@
 </details>
 
 <details>
-  <summary><br>🌐 &nbsp;Websites</b></summary>
+  <summary><b>🌐 &nbsp;Websites</b></summary>
   <br/>
   <p align="center">
     <a href="https://github.com/Bit-Barron/CryptoTrack">
