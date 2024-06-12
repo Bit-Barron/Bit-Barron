@@ -12,8 +12,7 @@
   </a>
 </p>
 
-![github-contribution-grid-snake.gif](https://github.com/Bit-Barron/Bit-Barron/blob/output/github-contribution-grid-snake.svg)
-
+![snake gif](https://github.com/Bit-Barron/Bit-Barron/blob/output/github-contribution-grid-snake.gif)
 
 
 ## 🚀 Technologies & Tools
