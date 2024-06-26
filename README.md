@@ -66,7 +66,7 @@
   <br/>
   <p align="center">
     <a href="https://github.com/Don-Cryptus/coding.global-web">
-      <img height="120px" src="https://github-readme-stats.vercel.app/api/pin/?username=Don-Cryptus&repo=coding.global-web&theme=react&bg_color=151515&title_color=fff&icon_color=fa8b00&hide_border=true&show_icons=false" />
+      <img height="120px" src="https://github-readme-stats.vercel.app/api/pin/?username=0-don&repo=coding.global-web&theme=react&bg_color=151515&title_color=fff&icon_color=fa8b00&hide_border=true&show_icons=false" />
     </a>
   
 </p>
@@ -79,6 +79,9 @@
     <a href="https://github.com/Bit-Barron/CryptoTrack">
       <img height="120px" src="https://github-readme-stats.vercel.app/api/pin/?username=Bit-Barron&repo=CryptoTrack&theme=react&bg_color=151515&title_color=fff&icon_color=fa8b00&hide_border=true&show_icons=false" />
      <a href="https://github.com/Bit-Barron/devConnector">
+      <img height="120px" src="https://github-readme-stats.vercel.app/api/pin/?username=Bit-Barron&repo=gamingfingers&theme=react&bg_color=151515&title_color=fff&icon_color=fa8b00&hide_border=true&show_icons=false" />
+    </a>
+      <a href="https://github.com/Bit-Barron/devConnector">
       <img height="120px" src="https://github-readme-stats.vercel.app/api/pin/?username=Bit-Barron&repo=gamingfingers&theme=react&bg_color=151515&title_color=fff&icon_color=fa8b00&hide_border=true&show_icons=false" />
     </a>
   </p>
