@@ -79,19 +79,25 @@
   <summary><b>🌐 &nbsp;Websites</b></summary>
   <br/>
   <p align="center">
-    <a href="https://github.com/Bit-Barron/CryptoTrack">
-      <img height="120px" src="https://github-readme-stats.vercel.app/api/pin/?username=Bit-Barron&repo=CryptoTrack&theme=react&bg_color=151515&title_color=fff&icon_color=fa8b00&hide_border=true&show_icons=false" />
-     <a href="https://github.com/Bit-Barron/grocerygo">
-      <img height="120px" src="https://github-readme-stats.vercel.app/api/pin/?username=Bit-Barron&repo=grocerygo&theme=react&bg_color=151515&title_color=fff&icon_color=fa8b00&hide_border=true&show_icons=false" />
-    </a>
-      <a href="https://github.com/Bit-Barron/chatbpt">
-      <img height="120px" src="https://github-readme-stats.vercel.app/api/pin/?username=Bit-Barron&repo=gamingfingers&theme=react&bg_color=151515&title_color=fff&icon_color=fa8b00&hide_border=true&show_icons=false" />
-    </a>
+    <a href="https://github.com/Bit-Barron/cryptotracker">
+      <img height="120px" src="https://github-readme-stats.vercel.app/api/pin/?username=Bit-Barron&repo=cryptotracker&theme=react&bg_color=151515&title_color=fff&icon_color=fa8b00&hide_border=true&show_icons=false" />
+     <a href="https://github.com/Bit-Barron/fetchfresh">
+      <img height="120px" src="https://github-readme-stats.vercel.app/api/pin/?username=Bit-Barron&repo=fetchfresh&theme=react&bg_color=151515&title_color=fff&icon_color=fa8b00&hide_border=true&show_icons=false" />
     <a href="https://github.com/Don-Cryptus/coding.global-web">
       <img height="120px" src="https://github-readme-stats.vercel.app/api/pin/?username=0-don&repo=coding.global-web&theme=react&bg_color=151515&title_color=fff&icon_color=fa8b00&hide_border=true&show_icons=false" />
     </a>
   </p>
   
+</details>
+
+<details>
+  <summary><b>🧩 &nbsp;Extensions</b></summary>
+  <br/>
+  <p align="center">
+    <a href="https://github.com/Bit-Barron/downconvert">
+      <img height="120px" src="https://github-readme-stats.vercel.app/api/pin/?username=Bit-Barron&repo=downconvert&theme=react&bg_color=151515&title_color=fff&icon_color=fa8b00&hide_border=true&show_icons=false" />
+    </a>
+  </p>
 </details>
 
 <details>
