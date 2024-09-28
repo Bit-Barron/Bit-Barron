@@ -1,4 +1,4 @@
-![snake gif](https://github.com/Bit-Barron/Bit-Barron/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/Bit-Barron/Bit-Barron/blob/output/github-contribution-grid-snake.svg)
 
 <p align="center">
   <a href="https://github.com/Bit-Barron?tab=repositories&sort=stargazers">
