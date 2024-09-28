@@ -132,8 +132,8 @@
   <summary><b>📱 &nbsp;Mobile</b></summary>
   <br/>
   <p align="center">
-    <a href="https://github.com/Bit-Barron/helpme">
-      <img height="120px" src="https://github-readme-stats.vercel.app/api/pin/?username=Bit-Barron&repo=helpme&theme=react&bg_color=151515&title_color=fff&icon_color=fa8b00&hide_border=true&show_icons=false" />
+    <a href="https://github.com/Bit-Barron/helpee">
+      <img height="120px" src="https://github-readme-stats.vercel.app/api/pin/?username=Bit-Barron&repo=helpee&theme=react&bg_color=151515&title_color=fff&icon_color=fa8b00&hide_border=true&show_icons=false" />
     </a>
   </p>
 </details>
