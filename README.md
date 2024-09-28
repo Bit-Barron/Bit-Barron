@@ -1,4 +1,3 @@
-![snake gif](https://github.com/Bit-Barron/Bit-Barron/blob/output/github-contribution-grid-snake.svg)
 
 <p align="center">
   <a href="https://github.com/Bit-Barron?tab=repositories&sort=stargazers">
@@ -13,6 +12,7 @@
     <img alt="views" title="GitHub profile views" src="https://komarev.com/ghpvc/?username=Bit-Barron&style=for-the-badge&color=lightgrey"/>
   </a>
 </p>
+![github contribution grid snake animation](https://raw.githubusercontent.com/Bit-Barron/Bit-Barron/output/github-contribution-grid-snake-dark.svg)
 
 
 
