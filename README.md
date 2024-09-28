@@ -1,3 +1,5 @@
+![snake gif](https://github.com/Bit-Barron/Bit-Barron/blob/output/github-contribution-grid-snake.gif)
+
 <p align="center">
   <a href="https://github.com/Bit-Barron?tab=repositories&sort=stargazers">
     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&host=formatted-dynamic-badges.herokuapp.com&formatter=metric&style=for-the-badge&color=55960c&labelColor=488207&label=stars&query=$.stars&url=https://api.github-star-counter.workers.dev/user/Bit-Barron"/>
