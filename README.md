@@ -13,6 +13,7 @@
   </a>
 </p>
 
+
 ![github contribution grid snake animation](https://raw.githubusercontent.com/Bit-Barron/Bit-Barron/output/github-contribution-grid-snake-dark.svg)
 
 
