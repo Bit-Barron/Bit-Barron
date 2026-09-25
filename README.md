@@ -10,10 +10,10 @@ I am currently looking for a **software development internship** where I can con
 
 | Project | What it demonstrates | Stack | Links |
 |---|---|---|---|
-| **Tournament Web** | A web application for hosting and managing gaming tournaments | TypeScript, web application development | [Repository](https://github.com/Bit-Barron/tournament-web) · [Live demo](https://tournament.barron.agency/) |
-| **YouTubepedia.ai** | A question-and-answer application for YouTube video content | Svelte, AI-assisted search | [Repository](https://github.com/Bit-Barron/youtubepedia.ai) · [Live demo](https://youtubepedia.barron.agency/) |
+| **Tournament Web** | A web application for hosting and managing gaming tournaments | TypeScript, web application development | [Repository](https://github.com/Bit-Barron/tournament-web) |
+| **YouTubepedia.ai** | A question-and-answer application for YouTube video content | Svelte, AI-assisted search | [Repository](https://github.com/Bit-Barron/youtubepedia.ai) |
 | **Jobspotter** | An application for finding, tracking, and managing job applications | TypeScript, product-oriented frontend development | [Repository](https://github.com/Bit-Barron/jobspotter) |
-| **CryptoTracker** | A real-time dashboard for cryptocurrency prices and trends | TypeScript, external APIs, data visualization | [Repository](https://github.com/Bit-Barron/cryptotracker) · [Live demo](https://cryptotrack.barron.agency/) |
+| **CryptoTracker** | A real-time dashboard for cryptocurrency prices and trends | TypeScript, external APIs, data visualization | [Repository](https://github.com/Bit-Barron/cryptotracker) |
 
 ## Technical focus
 
